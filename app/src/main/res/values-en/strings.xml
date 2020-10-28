@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UltraAudio</string>
+    <string name="txthelp">This application is for study and the resources is open</string>
+    <string name="activity_main_menu_file">FILE</string>
+    <string name="activity_main_menu_set">SET</string>
+    <string name="activity_main_menu_setting">SET</string>
+    <string name="activity_main_menu_help">HELP</string>
+    <string name="activity_file_menu_scan">SCAN SD</string>
+    <string name="tab_item1">Song Lyrics</string>
+    <string name="tab_item2">PlayList</string>
+    <string name="contentdescription"></string>
+    <string name="deletefromlist">Delete from playlist</string>
+    <string name="addtolist">Add to playlist</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="thissong">this song?</string>
+    <string name="ok">OK</string>
+    <string name="anothorkey">Click again to exit</string>
+    <string name="scannotexit">It is scanning,please do not exit</string>
+    <string name="song"> Songs</string>
+    <string name="countfile"> Files</string>
+    <string name="notfile">File is not found</string>
+    <string name="anothorscan">Scan SD again</string>
+    <string name="isscanning">Scanning…</string>
+    <string name="scanfirstly">Scan SD firstly</string>
+
+</resources>

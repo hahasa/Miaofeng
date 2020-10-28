@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/txthelp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#000000"
+    android:gravity="center"
+    android:text="@string/tab_item1"
+    android:textColor="#00ffff"
+    android:textSize="25sp" />
+
